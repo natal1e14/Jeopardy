@@ -1,0 +1,9 @@
+Name    Hexa    Default    10000    N
+red    #ff0c35    N
+blue    #0c50ff    N
+white    #ffffff    Y2
+black    #000000    N
+classic blue    #000392    Y1
+hot pink    #ff005f    N
+turquoise    #5affe4    N
+lavendar    #c68eff    N

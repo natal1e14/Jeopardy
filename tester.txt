@@ -1,0 +1,5 @@
+Genre         Category         Question         Answer
+Science         Science Sense         These types of animals only eat meat         carnivores
+Science         Computer Science         This coding language is also the name of a large snake         python
+Biology         Medicine         This medicine is dangerous         opiod
+Chemistry         Organic Chemistry         This distinguishes an organic vs an inorganic compound         carbon

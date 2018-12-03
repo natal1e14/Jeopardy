@@ -1,0 +1,11 @@
+Genre         Category         Question         Answer
+Other         Tallest, Fastest, or Largest         The tallest mountain in the world.         [mt. everest, everest, mount everest]
+Other         Tallest, Fastest, or Largest         The tallest living thing in the world         [giant redwood tree, redwood, redwood tree]
+Other         Tallest, Fastest, or Largest         The largest continent         asia
+Other         Tallest, Fastest, or Largest         The world's longest snake         anaconda
+Other         Tallest, Fastest, or Largest         The world's fastest sea animal         [killer whale, orca]
+Other         Fun Facts         Wool comes from this animal         sheep
+Other         Fun Facts         The president whose face is on the American penny         [lincoln, abraham lincoln]
+Other         Fun Facts         Another name for the season fall         autumn
+Other         Fun Facts         This bird is known for its beautiful tail         peacock
+Other         Fun Facts         The art of Japanese paper folding         origami

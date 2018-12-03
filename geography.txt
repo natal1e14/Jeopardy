@@ -1,0 +1,9 @@
+Genre         Category         Question         Answer
+Geography         World Cities         This city used to be called Edo         tokyo
+Geography         World Cities         This is the world's oldest continuously inhabited city         damascus
+Geography         World Cities         This is the world's northernmost capital city         reykhavik
+Geography         World Cities         This city contains the most fountains         rome
+Geography         World Cities         Known as "the City of Lights"         paris
+Geography         World Cities         Known as the "Waltz City"         vienna
+Geography         World Cities         This "City of Bridges" is also an alliterative syndrome         stockholm
+Geography         World Cities         Formerly known as "Fort York"         toronto

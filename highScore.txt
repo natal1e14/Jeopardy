@@ -1,0 +1,39 @@
+Rank         Name         Score
+1         u wish u were me         $6000
+2         #SmarterThanU         $4600
+3         YAS         $4300
+4         random #s         $3601
+5         :D         $3600
+6         ;D         $3200
+7         nat         $2600
+8         Nat         $1800
+9         yup...         $1800
+10         I am worthy         $1600
+11         This works.         $1400
+12         N/A         $1200
+13         N/A         $1200
+14         yay it works.         $800
+15         N/A         $600
+16         cool #         $543
+17         N/A         $0
+18         i guessed!         $-400
+19         N/A         $-602
+20         N/A         $-800
+21         N/A         $-2400
+22         :/         $-2600
+23         N/A         $-2600
+24         N/A         $-2600
+25         N/A         $-2600
+26         N/A         $-2600
+27         blah         $-3000
+28         N/A         $-3000
+29         nat         $-3400
+30         tester         $-3400
+31         that was close         $-3400
+32         nope         $-6000
+33         N/A         $-6000
+34         N/A         $-6400
+35         idk man         $-6600
+36         nat         $-7200
+37         flaaaa         $-7268
+38         no one could do worse         $-46600

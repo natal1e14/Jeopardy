@@ -1,0 +1,6 @@
+Genre         Category         Question         Answer
+Literature         Best-Sellers         The most sold non-fiction book of all time         [the bible, bible]
+Literature         Best-Sellers         The best-selling novel of all time         valley of the dolls
+Literature         Best-Sellers         With over 2 billion books sold, she is the world's best-selling fiction writer         [agatha christie, christie]
+Literature         Best-Sellers         Among the 50 books with the longest time on the New York Times best-seller list is this non-fiction book about space         a brief history of time
+Literature         Best-Sellers         This Pulitzer Prize winning book about racism and injustice in '30s America has spent 98 weeks on the New York Times best-seller list         to kill a mockingbird

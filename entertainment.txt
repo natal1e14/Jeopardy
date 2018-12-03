@@ -1,0 +1,67 @@
+Genre         Category            Question            Answer
+Entertainment         Marvel         Thor's weapon of choice cannot be held unless a person is this         worthy
+Entertainment         Marvel         Captain America's shield is made out of this rare fictional element         vibranium
+Entertainment         Marvel         This writer has made over 15 cameos in the movie adaptations of his works         stan lee
+Entertainment         Marvel         He has a school for "special" children named after him         [charles xavier, professor x]
+Entertainment         Marvel         In Earth-616, she has taken up Tony Stark's old hobby, but with the alias of Iron Heart         riri williams
+Entertainment         Action Movie Trivia         This former body-builder made it big as the first James Bond         [sean connery, sir sean connery]
+Entertainment         Action Movie Trivia         This organization was dissolved into the CIA in its franchise's fifth installment         [the imf, imf, impossible mission force]
+Entertainment         Action Movie Trivia         This actor who portrayed a street racer was killed in a car accident in 2013         paul walker
+Entertainment         Action Movie Trivia         The former distric attorney of Gotham turned villain in the Dark Knight Trilogy         Harvey Dent
+Entertainment         Action Movie Trivia         She will be playing the title role of the first female-led superhero film since 2005         gal gadot
+Entertainment         James Bond         He is James Bond’s mortal enemy         [blofeld, ernst stavro blofeld]
+Entertainment         James Bond         He was said to have died in this James Bond movie         skyfall
+Entertainment         James Bond         He is James Bond’s American ally         [felix, felix leiter]
+Entertainment         James Bond         This was the first James Bond movie         dr.no
+Entertainment         James Bond         this organization is lead by Ernst Stavro Blofeld         spectre
+Entertainment         Music         This song sung by Luis Fonsi and Daddy Yankee featuring Justin Bieber is a mix of English and Spanish         despacito
+Entertainment         Music         This singer has written songs for Selena Gomez, Justin Bieber, Fifth Harmony and many more         julia michaels
+Entertainment         Music         This British red head singer loves cats         ed sheeran
+Entertainment         Music         This British boy band is currently on a break         one direction
+Entertainment         Music         This Canadian singer new album Illuminate was released on September 23, 2016         shawn mendes
+Entertainment         Disney Channel Movies         This movie takes place at a summer camp         camp rock
+Entertainment         Disney Channel Movies         This movie is about the children of famous disney characters         descendants
+Entertainment         Disney Channel Movies         These two meet at holiday karaoke party in this movie         high school musical
+Entertainment         Disney Channel Movies         This movie is about a princess staying with a covert agent and his daughter         princess protection program
+Entertainment         Disney Channel Movies         These two surfers magically become part of a movie musical in this movie         teen beach movie
+Entertainment         Disney Channel Movies         This group met in detention in this movie         lemonade mouth
+Entertainment         TV Shows         These group of friends live in the same apartment complex         friends
+Entertainment         TV Shows         These two best friends and roommates work at California Institute of Technology in this tv series         big bang theory
+Entertainment         TV Shows         This tv show is about a families life         modern family
+Entertainment         TV Shows         In this tv show Harvey Specter hires college dropout Mike Ross to be his associate         suits
+Entertainment         TV Shows         This tv show is about Dre Johnson and his family         black-ish                  
+Entertainment         Books         This book series is about the adventures of a wizard and his friends at Hogwarts School of Witchcraft and Wizardry         harry potter
+Entertainment         Books         This book is about a girl’s adventures in Wonderland         alice’s adventures in wonderland
+Entertainment         Books         This non-fiction book is about a Pakistani girl who got shot by the Taliban         I am malala
+Entertainment         Books         This book series is about a world-renowned chef and his super sensitive nose         neil flambe
+Entertainment         Books         This book is about an orphan, clock keeper, and thief who lives in Paris         the invention of hugo cabret
+Entertainment         One Direction         This former One Direction singer left the band on March 25, 2015         zayn malik
+Entertainment         One Direction         They were discovered by Simon Cowell on this tv series         the x factor
+Entertainment         One Direction         The name of One Directions first album was this         up all night
+Entertainment         One Direction         They have won this many Teen Choice Awards         27
+Entertainment         One Direction         They got this place in The X Factor         third
+Entertainment         Disney Princess Movies         This movie is about a girl who lives with her mean stepmother and stepsisters         cinderella
+Entertainment         Disney Princess Movies         This movie is about a mermaid who wants to be on land         the little mermaid
+Entertainment         Disney Princess Movies         This movie is about a street rat who frees a genie from a lamp         aladdin
+Entertainment         Disney Princess Movies         This movie is about a young prince and his servants who fall under a spell that can only be broken if he can learn to love and be loved in return         beauty and the beast
+Entertainment         Disney Princess Movies         This movie was the Disney’s first animated feature         snow white and the seven dwarfs
+Entertainment         Ed Sheeran         He performed this song with Elton john at the 2013 Grammy Awards         the a team
+Entertainment         Ed Sheeran         He is friends with this famous pop and country singer         taylor swift
+Entertainment         Ed Sheeran         The name of his first album was this         [+, plus]
+Entertainment         Ed Sheeran         He was spotted by this star at The Foxxhole in 2010 while playing at an open mic         Jamie Foxx
+Entertainment         Ed Sheeran         He wrote this song for Justin Bieber’s fourth album         love yourself
+Entertainment         Drake         His first name is this         Aubrey
+Entertainment         Drake         He played on this Canadian tv series         degrassi: the next generation
+Entertainment         Drake         The name of his first studio album was this         thank me later 
+Entertainment         Drake         He has won this many American Music Awards         6
+Entertainment         Drake         He has this many Juno Awards         3
+Entertainment         Country Singers         This country music singer is a judge on The Voice         blake shelton
+Entertainment         Country Singers         She was the winner of American Idol in 2005         Carrie Underwood
+Entertainment         Country Singers         This country music singer is married to Nicole Kidman         keith urban
+Entertainment         Country Singers         He is the son go the late baseball player Tug McGraw         tim mcgraw
+Entertainment         Country Singers         This country music singer was married to Blake Shelton         miranda lambert
+Entertainment         Dancing with the Stars         The first ever winner of Dancing with the Stars was this actress         kelly monaco
+Entertainment         Dancing with the Stars         He married his co-star dancer on the show         emma slater
+Entertainment         Dancing with the Stars         The winner of season 23 was this olympic gymnast         laurie hernandez
+Entertainment         Dancing with the Stars         The winner of season 19 was this star from The Fresh Prince of Bel-Air         alfonso ribeiro
+Entertainment         Dancing with the Stars         The winner of season 24 was this NFL running back         rashad jennings

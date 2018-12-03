@@ -1,0 +1,6 @@
+Genre         Category         Question         Answer
+Languages         French         "Pain" is French for this, hopefully unpainful, good         bread
+Languages         French         "Poison" in French is poison. Add another 's' and it becomes this         fish
+Languages         French         In reality 'expectations' is this in French         [attentes, attente]
+Languages         French         The literal translation of the French "bonjour" is this         good day
+Languages         French         In Canada, "lest we forget" is translated as "I remember", or this in French         je me souviens

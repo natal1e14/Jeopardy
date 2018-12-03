@@ -1,0 +1,83 @@
+User Guide
+
+Home Screen
+5 different options
+Classic — starts a classic game of Jeopardy
+Genre — allows the user to choose a genre to base all the game categories on
+Import New — allows the user to input new genres, categories, and questions
+Settings — allows the user to change the default settings, including colour and difficulty (time & allowing restarts)
+View Scores — allows the users to view the scores of the top 100 players
+
+Jeopardy Gameplay 
+Offers a wide variety of built-in categories
+
+How to Play:
+There will be 6 categories per round, with 5 questions each
+Select a question value from a category
+Once you have selected, if the question is a daily double, the following window will appear BEFORE you get your question: 
+
+You must then enter wager. Your wager cannot exceed your score, unless you have a negative score - in this case you can wager up to $2000. Once you have entered your wager, press the “wager $” button.
+
+a window will appear with the question (after Wager if the question is a daily double or directly after you click it on the game board). You may have a certain amount of time to answer the question, depending on the settings. Enter your answer and press submit
+
+Importing Data
+
+- You can import new data for the program. Use by File to enter brand new data (non-existing genres or categories) and add to existing data, and by Question to add to existing data. 
+
+By File
+
+Make sure the terminal is in sight when importing data as it gives very important directions! It will tell you if there are any problems with importing your data and how to resolve them and if the import was successful. 
+Before importing:
+Ensure the file is saved in “.txt” format
+Make sure the file is divided into 4 columns, each separated by 9 spaces: Genre, Category, Question, Answer
+If you are importing a new category, ensure that it has at least 5 questions in it
+Enter the file path OR if the file is in the same folder as Jeopardy, enter its name and extension
+
+By Question
+
+
+First, select a genre you would like to add to and press the submit button
+The second box will then be populated with categories that belong to that genre, as seen in the box below. Select the one you would like to add to.
+Enter a question and its answer in the corresponding entry boxes. Please make sure there are no extra spaces after the question and answer, then press “Submit”. 
+A message will be outputted in the Terminal window if  the data was successfully recorded. 
+
+
+View Scores
+
+You can view your scores at almost any time from the Menu Bar or by clicking a button on the screen labelled “View Scores” (this will only appear on certain screens)
+This will open a window with the names and scores of the top 100 players, as seen below
+Press the red button on the window to close it. 
+
+Change Settings
+
+Change colours by selecting a colour from the Main Colour or Accents menu and pressing their corresponding submit buttons
+Choose custom to open the colour picker and choose a colour
+The Terminal will prompt you to enter a name for the colour. If you do, it will be saved as a default colour, otherwise it will disappear once the program is closed
+
+Change the amount of time allowed to answer each question by selecting a time and pressing submit
+Select 0 to allow unlimited time 
+
+Check the allow restarting box to allow players to restart a round in the middle of the game
+
+Check all the settings you like and check “Make Settings Default” to make your selection the default for every time you open the game
+
+
+
+Menu Bar
+
+The menu bar is unique to every screen and allows you to navigate the program, amongst other things
+
+
+Options include:
+Help
+Manual — opens manual
+Navigate (up to, depending on the screen)
+Home — goes to home screen
+Back — goes from specific import screen to import menu
+Start Classic Game — starts a classic game
+Start Game by Genre — takes you to genre page
+Quit — quits the program
+Game Options
+New Game — start a new game
+Restart Game — Restart the current game
+View Scores — View the rankings
