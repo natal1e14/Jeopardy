@@ -1,5 +1,6 @@
 This program simulates the game show Jeopardy.
-It was written using Python 2.7 in 2017, and as such will encounter errors
+Written in Python 2.7 and uses the Tkinter GUI Package, which does not work properly in macOS Mojave. Therefore, please run on older operating systems.  
+
 if run using a newer version of Python.
 
 To start the game, run the runner.py file.
@@ -13,7 +14,7 @@ to type something in for further gameplay.
 To download the font used for this game, visit the following link:
 https://www.dafont.com/gyparody.font 
 
-Alternatively, you can change the font on Line 61 to a font of your choice.
+Alternatively, you can change the font on Line 161 to a font of your choice.
 
 Part of this assignment was to act as if the final product was to be sold and to come up with a company name. It is not actually for sale. 
 
